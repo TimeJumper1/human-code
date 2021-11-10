@@ -1,0 +1,14 @@
+1 apro netflix
+2vedo titoli di netflix
+3vedo i consigliati da netflix FINCHE NON MI ANNOIO
+3.1Se uno mi interessa guardo il trailer se no punto 3
+3.2Se mi il trailer mi piace guardo il titolo se no punto 3
+
+3END i consigliati non mi piacciono
+4cerco per genere 
+4.1vedo i consigliati per genere FINCHE NON MI ANNOIO
+4.1Se uno mi interessa guardo il trailer se no punto 4
+4.2Se mi il trailer mi piace guardo il titoli se no punto 4
+ 
+4 END non mi piace niente 
+5 spengo netflix
